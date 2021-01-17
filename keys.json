@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "desafio-tunts-1610597717532",
+  "private_key_id": "084179c174eacb3cca900402540c8af15f9da0ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCngbe+6uGU9DXD\nGvIEE0AAYg9S/+DbFiIV5MgPHnE8McjwJ/Y/F8Vl3raqGxSsU/W8hhjhSqA7HpOS\nz1g/dPZFtwEFnTe0/bN0A4dr0VQu+aAlQE7owpCYIFMjctTZ2mxsEKahV6uTSsVB\nMp2j6q52nq02yc6SqFqESjwxyeHdEhaWU3ySZw3iXyi5i/yUB9UE5fu9FVH9CHKH\nzkpak9MjvSgypcfmpfR4xsKAdMRskZR3Ndza4qkj9aSdo8yxV8JIvZZmnRiA43tk\nwBBU/a8PowQB0tnCTtVInEyUa9vsBIvwswbXVETpDCJDOHZscYiZukC9gsHDeBjo\nAbY4RrVZAgMBAAECggEAD3khNfS4wJOT/Uk5irSUBI0KXRiHpvlLDgJvlAzz+RNg\nvEV2vuKFYKkDbuB4Rwhs8lyhQvtrpHZpO6YlYNw/LRav9JqupQyL9YcnbOdd60Zy\nG4rOlzv00yamQ2elv5eIjS13FP+WGPGu2bxRGU2SDuFOvxlCeKPuU5rPZ2p+j5cI\nOqDnNaJctGMgRorBMYT2M4nlXD/VjjqwiqQVWBm6g3WFBO2DPgD4RiOj/dv/XmNa\nCQ7Ezt6qWeFjKkALYXSaXQswuV80J/LTu3DQelPnNmM2iq0aHjr7RdpD4woFhACV\nMKrXzUhPlAZCOLs84RbupPRKiG9zVzLKwB1ubs2SAQKBgQDZsfE6RD5OQd6qUtb7\nnkgo3GvyTKFnKbnbQjEE3hrLlANr0BnGV+Dkmp5q2CC+VRE11SruZ8Ni27OSx1tQ\n02AYzA25oNInKLq2iDVnOzdU0oBlmdfrmFfWXkwk96Qs3we7E6lJe4Kb1ym7PKIh\nVEYV+Fu1b+kJb0KQb0DG10+qAQKBgQDE+wtGul5VO6TkAnmfdge9xUcncOYvVpOW\nJIOkEFYuJUhVbyxqHIyLVfndDprgZHxyC+k+tw6q5ZkJQ0joDupP9D2SDzt+XW4T\nMSqdS+6jw3fcmWA4umxnxzKMjJJ2nMvMEbMkfx5ZM7iJ3Ct6qGcVad14EZ9VIMRG\nYDV95aabWQKBgQDX+yhG08AxKj79IzUx7ObQy2e5vHeB/67qrzAtESLqiY4fYBbC\nZxu0EwdLH+TUkVeC3lw6re323dy6qlmZxi0YTRLs8Xau7UTZpie9pM2PtU04ADtt\n/fZfs6y+HIfhEOH9pFMXmZeKgB1iK5T7lj32vDJYv5AoER+sZwSQgrwCAQKBgQCF\nsaIwqhOWo/nBa9Cio1iTu88UfPMulANtt3DFrPThMxrKKb+qcaAOfhctq1kBDhLM\n0TrI/zPsWBMrj0hvgJgWFj6n4MDPfphUXF2BD2V0LxouVsdRGW60bSXo8QwDh15n\nLmg5UDIH9yu8HfxArwXwKb9QXB2ZiLjOz0PfJDyVWQKBgGF6WlujopcUso/2/wZ1\n/nshnWHX65IhRp7o1WcvWIodj+zCnA5UhZpHkSCQplxMM1gYwQjxfAxxqAH5/s5b\naSMukpAERh5ac1xI0KjY5ZWrXyMyLxos6KeVkniA9vexxHcoPUNvzvCbNWdvGm+1\n/d0zjvtr4LiQZgei17pvpblP\n-----END PRIVATE KEY-----\n",
+  "client_email": "artenius@desafio-tunts-1610597717532.iam.gserviceaccount.com",
+  "client_id": "101866638086116605938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artenius%40desafio-tunts-1610597717532.iam.gserviceaccount.com"
+}
